@@ -1,2 +1,2 @@
 * ## Initial Robot Assmebly
-* ![Image](SSH.PNG)
+![Image](IMG_20240524_161246_171.jpg)
