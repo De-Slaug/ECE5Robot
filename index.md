@@ -1,4 +1,5 @@
 * ## Line Following Demo
+* NOTE: There is no thumbnail but pressing the play button should show the video. 
 <video controls>
   <source src="https://github.com/De-Slaug/ECE5Robot/assets/146780619/23f5f9dd-a5dd-443b-be8a-2c0331b0b3b2" type="video/mp4">
   Your browser does not support the video tag.
