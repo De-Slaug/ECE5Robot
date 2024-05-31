@@ -1,8 +1,9 @@
 * ## Line Following Demo
+<video controls>
+  <source src="https://github.com/De-Slaug/ECE5Robot/assets/146780619/23f5f9dd-a5dd-443b-be8a-2c0331b0b3b2" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-
-
-https://github.com/De-Slaug/ECE5Robot/assets/146780619/23f5f9dd-a5dd-443b-be8a-2c0331b0b3b2
 
 
 * ## Initial Robot Assmebly
